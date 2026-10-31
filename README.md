@@ -5,6 +5,8 @@ Enter one research topic and Apollo plans the investigation, searches multiple s
 
 The current version also supports configurable API keys, research domains, platform mixes, live agent events, source-quality filtering, Both Sides conflict analysis, and a deterministic Judge mode.
 
+Apollo is designed to keep the research workflow transparent: users can follow each agent's progress, inspect the evidence behind a conclusion, and export the final report.
+
 ---
 
 ## Windows Setup Steps (PowerShell)
