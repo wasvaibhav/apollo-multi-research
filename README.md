@@ -106,3 +106,11 @@ python test_run.py "Stubble burning policy in a single small village of Fatehgar
 - **More Domains**: Add connectors for Finance (SEC/NSE filings, market data), Product Comparison, and other evidence-heavy research categories.
 - **Hindi Reports**: Add one-click bilingual/Hindi report generation (`हिन्दी`) while preserving exact `[n]` citations and Truth Meter highlights.
 - **Persistent Run History**: Store completed runs in SQLite or local storage so users can revisit, compare, and re-export reports.
+
+---
+
+## Team
+
+- **Team Leader:** Piyush Palariya
+- **Team Member:** Vaibhav Singh Kaira
+- **Team Member:** Samarth Johari
