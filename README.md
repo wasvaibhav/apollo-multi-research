@@ -183,3 +183,5 @@ python test_run.py "Stubble burning policy in a single small village of Fatehgar
 - Concurrent search work is bounded by `MAX_PARALLEL_RESEARCHERS`.
 ---`n`n## Contributor Implementation Notes
 - The planner can produce up to five focused research sections.
+---`n`n## Contributor Implementation Notes
+- The research pipeline includes a runtime guard to stop excessively long runs.
