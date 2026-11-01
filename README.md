@@ -157,3 +157,5 @@ python test_run.py "Stubble burning policy in a single small village of Fatehgar
 - SSE events expose planning, search, review, writing, and verification progress.
 ---`n`n## Contributor Implementation Notes
 - Every cited sentence is compared against the text retrieved for its sources.
+---`n`n## Contributor Implementation Notes
+- The trust score summarizes sentence-level support across the report.
