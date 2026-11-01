@@ -147,3 +147,5 @@ python test_run.py "Stubble burning policy in a single small village of Fatehgar
 - Use `FAST_MODEL` for writing and verification tasks.
 ---`n`n## Contributor Implementation Notes
 - Use `SMART_MODEL` for planning, review, and final assembly.
+---`n`n## Contributor Implementation Notes
+- The backend automatically clears locally saved keys after 30 days.
