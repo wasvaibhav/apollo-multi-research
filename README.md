@@ -177,3 +177,5 @@ python test_run.py "Stubble burning policy in a single small village of Fatehgar
 - Sources scoring 35 to 49 are marked Low.
 ---`n`n## Contributor Implementation Notes
 - Sources below 35 are dropped before report writing.
+---`n`n## Contributor Implementation Notes
+- Research review loops are capped to prevent unbounded execution.
