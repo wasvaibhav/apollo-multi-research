@@ -199,3 +199,5 @@ python test_run.py "Stubble burning policy in a single small village of Fatehgar
 - Section writers should use only sources assigned to their own section.
 ---`n`n## Contributor Implementation Notes
 - The assembler preserves source citations while connecting sections into a coherent report.
+---`n`n## Contributor Implementation Notes
+- Use `python test_run.py "topic"` to exercise the research pipeline from the terminal.
