@@ -163,3 +163,5 @@ python test_run.py "Stubble burning policy in a single small village of Fatehgar
 - A `SUPPORTED` sentence is backed by relevant retrieved source evidence.
 ---`n`n## Contributor Implementation Notes
 - A `PARTIAL` verdict means the cited source only supports part of the claim.
+---`n`n## Contributor Implementation Notes
+- An `UNSUPPORTED` verdict indicates that the citation evidence does not substantiate the sentence.
