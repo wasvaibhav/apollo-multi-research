@@ -171,3 +171,5 @@ python test_run.py "Stubble burning policy in a single small village of Fatehgar
 - Domain authority, content length, and publication recency contribute to source scores.
 ---`n`n## Contributor Implementation Notes
 - Sources scoring 70 or higher are marked High.
+---`n`n## Contributor Implementation Notes
+- Sources scoring 50 to 69 are marked Medium.
