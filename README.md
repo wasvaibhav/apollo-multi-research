@@ -151,3 +151,5 @@ python test_run.py "Stubble burning policy in a single small village of Fatehgar
 - The backend automatically clears locally saved keys after 30 days.
 ---`n`n## Contributor Implementation Notes
 - API keys can also be managed through the local React configuration panel.
+---`n`n## Contributor Implementation Notes
+- Research begins by submitting a topic through the frontend or API.
