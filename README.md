@@ -155,3 +155,5 @@ python test_run.py "Stubble burning policy in a single small village of Fatehgar
 - Research begins by submitting a topic through the frontend or API.
 ---`n`n## Contributor Implementation Notes
 - SSE events expose planning, search, review, writing, and verification progress.
+---`n`n## Contributor Implementation Notes
+- Every cited sentence is compared against the text retrieved for its sources.
