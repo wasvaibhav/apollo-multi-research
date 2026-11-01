@@ -201,3 +201,5 @@ python test_run.py "Stubble burning policy in a single small village of Fatehgar
 - The assembler preserves source citations while connecting sections into a coherent report.
 ---`n`n## Contributor Implementation Notes
 - Use `python test_run.py "topic"` to exercise the research pipeline from the terminal.
+---`n`n## Contributor Implementation Notes
+- Use a specific, time-bounded topic when validating a research run.
