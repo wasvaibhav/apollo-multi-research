@@ -197,3 +197,5 @@ python test_run.py "Stubble burning policy in a single small village of Fatehgar
 - Hermes gap and conflict data should be parsed with safe fallbacks.
 ---`n`n## Contributor Implementation Notes
 - Section writers should use only sources assigned to their own section.
+---`n`n## Contributor Implementation Notes
+- The assembler preserves source citations while connecting sections into a coherent report.
