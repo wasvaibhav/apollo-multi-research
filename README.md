@@ -167,3 +167,5 @@ python test_run.py "Stubble burning policy in a single small village of Fatehgar
 - An `UNSUPPORTED` verdict indicates that the citation evidence does not substantiate the sentence.
 ---`n`n## Contributor Implementation Notes
 - The Both Sides view compares opposing evidence and explains possible reasons for differences.
+---`n`n## Contributor Implementation Notes
+- Domain authority, content length, and publication recency contribute to source scores.
