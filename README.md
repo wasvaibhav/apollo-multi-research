@@ -159,3 +159,5 @@ python test_run.py "Stubble burning policy in a single small village of Fatehgar
 - Every cited sentence is compared against the text retrieved for its sources.
 ---`n`n## Contributor Implementation Notes
 - The trust score summarizes sentence-level support across the report.
+---`n`n## Contributor Implementation Notes
+- A `SUPPORTED` sentence is backed by relevant retrieved source evidence.
