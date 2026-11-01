@@ -5,18 +5,9 @@ Enter one research topic and Apollo plans the investigation, searches multiple s
 
 The current version also supports configurable API keys, research domains, platform mixes, live agent events, source-quality filtering, Both Sides conflict analysis, and a deterministic Judge mode.
 
-Apollo is designed to keep the research workflow transparent: users can follow each agent's progress, inspect the evidence behind a conclusion, and export the final report.
-
 ---
 
 ## Windows Setup Steps (PowerShell)
-
-### Prerequisites
-
-- Python 3.11 or newer
-- Node.js 18 or newer
-- npm
-
 
 The repository includes the dependency manifests [backend/requirements.txt](backend/requirements.txt),
 [frontend/package.json](frontend/package.json), and [frontend/package-lock.json](frontend/package-lock.json).
@@ -123,3 +114,6 @@ python test_run.py "Stubble burning policy in a single small village of Fatehgar
 - **Team Leader:** Piyush Palariya
 - **Team Member:** Vaibhav Singh Kaira
 - **Team Member:** Samarth Johari
+
+---`n`n## Contributor Implementation Notes
+- Python 3.11 or later is recommended for the FastAPI backend.
