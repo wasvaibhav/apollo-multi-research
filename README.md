@@ -145,3 +145,5 @@ python test_run.py "Stubble burning policy in a single small village of Fatehgar
 - Configure `TAVILY_API_KEY` for Tavily-backed research searches.
 ---`n`n## Contributor Implementation Notes
 - Use `FAST_MODEL` for writing and verification tasks.
+---`n`n## Contributor Implementation Notes
+- Use `SMART_MODEL` for planning, review, and final assembly.
