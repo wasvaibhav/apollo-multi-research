@@ -133,3 +133,5 @@ python test_run.py "Stubble burning policy in a single small village of Fatehgar
 - Start the React application from the `frontend` directory with `npm run dev`.
 ---`n`n## Contributor Implementation Notes
 - The Vite frontend runs at `http://localhost:5173` by default.
+---`n`n## Contributor Implementation Notes
+- Verify the backend at `http://localhost:8000/api/health`.
