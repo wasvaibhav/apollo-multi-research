@@ -193,3 +193,5 @@ python test_run.py "Stubble burning policy in a single small village of Fatehgar
 - Search failures should emit warnings and allow the remaining pipeline work to continue.
 ---`n`n## Contributor Implementation Notes
 - Planner responses should be validated and safely parsed before use.
+---`n`n## Contributor Implementation Notes
+- Hermes gap and conflict data should be parsed with safe fallbacks.
