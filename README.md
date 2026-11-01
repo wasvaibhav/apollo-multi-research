@@ -211,3 +211,5 @@ python test_run.py "Stubble burning policy in a single small village of Fatehgar
 - The Sources view lists retrieved evidence and its quality metadata.
 ---`n`n## Contributor Implementation Notes
 - The Report view displays the assembled findings with citation highlighting.
+---`n`n## Contributor Implementation Notes
+- Judge mode should remain an assessment feature and must not invent source facts.
