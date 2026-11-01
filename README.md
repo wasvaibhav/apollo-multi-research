@@ -149,3 +149,5 @@ python test_run.py "Stubble burning policy in a single small village of Fatehgar
 - Use `SMART_MODEL` for planning, review, and final assembly.
 ---`n`n## Contributor Implementation Notes
 - The backend automatically clears locally saved keys after 30 days.
+---`n`n## Contributor Implementation Notes
+- API keys can also be managed through the local React configuration panel.
