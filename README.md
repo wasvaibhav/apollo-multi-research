@@ -123,3 +123,5 @@ python test_run.py "Stubble burning policy in a single small village of Fatehgar
 - Activate the virtual environment with `\.\venv\Scripts\Activate.ps1` on Windows.
 ---`n`n## Contributor Implementation Notes
 - Install backend dependencies using `python -m pip install -r requirements.txt`.
+---`n`n## Contributor Implementation Notes
+- Use `npm ci` when the committed `package-lock.json` should be respected.
