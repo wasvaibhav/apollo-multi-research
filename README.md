@@ -153,3 +153,5 @@ python test_run.py "Stubble burning policy in a single small village of Fatehgar
 - API keys can also be managed through the local React configuration panel.
 ---`n`n## Contributor Implementation Notes
 - Research begins by submitting a topic through the frontend or API.
+---`n`n## Contributor Implementation Notes
+- SSE events expose planning, search, review, writing, and verification progress.
