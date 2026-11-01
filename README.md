@@ -143,3 +143,5 @@ python test_run.py "Stubble burning policy in a single small village of Fatehgar
 - Configure `OPENROUTER_API_KEY` before starting research runs.
 ---`n`n## Contributor Implementation Notes
 - Configure `TAVILY_API_KEY` for Tavily-backed research searches.
+---`n`n## Contributor Implementation Notes
+- Use `FAST_MODEL` for writing and verification tasks.
