@@ -131,3 +131,5 @@ python test_run.py "Stubble burning policy in a single small village of Fatehgar
 - Start the API with Uvicorn on port 8000.
 ---`n`n## Contributor Implementation Notes
 - Start the React application from the `frontend` directory with `npm run dev`.
+---`n`n## Contributor Implementation Notes
+- The Vite frontend runs at `http://localhost:5173` by default.
