@@ -191,3 +191,5 @@ python test_run.py "Stubble burning policy in a single small village of Fatehgar
 - Sources use globally consistent numeric citations such as `[1]`, `[2]`, and `[3]`.
 ---`n`n## Contributor Implementation Notes
 - Search failures should emit warnings and allow the remaining pipeline work to continue.
+---`n`n## Contributor Implementation Notes
+- Planner responses should be validated and safely parsed before use.
