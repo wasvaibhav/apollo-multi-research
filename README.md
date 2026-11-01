@@ -173,3 +173,5 @@ python test_run.py "Stubble burning policy in a single small village of Fatehgar
 - Sources scoring 70 or higher are marked High.
 ---`n`n## Contributor Implementation Notes
 - Sources scoring 50 to 69 are marked Medium.
+---`n`n## Contributor Implementation Notes
+- Sources scoring 35 to 49 are marked Low.
