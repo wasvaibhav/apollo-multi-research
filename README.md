@@ -185,3 +185,5 @@ python test_run.py "Stubble burning policy in a single small village of Fatehgar
 - The planner can produce up to five focused research sections.
 ---`n`n## Contributor Implementation Notes
 - The research pipeline includes a runtime guard to stop excessively long runs.
+---`n`n## Contributor Implementation Notes
+- Sources with duplicate URLs are consolidated before report assembly.
