@@ -165,3 +165,5 @@ python test_run.py "Stubble burning policy in a single small village of Fatehgar
 - A `PARTIAL` verdict means the cited source only supports part of the claim.
 ---`n`n## Contributor Implementation Notes
 - An `UNSUPPORTED` verdict indicates that the citation evidence does not substantiate the sentence.
+---`n`n## Contributor Implementation Notes
+- The Both Sides view compares opposing evidence and explains possible reasons for differences.
