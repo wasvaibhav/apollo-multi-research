@@ -11,6 +11,13 @@ Apollo is designed to keep the research workflow transparent: users can follow e
 
 ## Windows Setup Steps (PowerShell)
 
+### Prerequisites
+
+- Python 3.11 or newer
+- Node.js 18 or newer
+- npm
+
+
 The repository includes the dependency manifests [backend/requirements.txt](backend/requirements.txt),
 [frontend/package.json](frontend/package.json), and [frontend/package-lock.json](frontend/package-lock.json).
 The `backend\venv`, `frontend\node_modules`, build output, and `.env` files are local generated files and
