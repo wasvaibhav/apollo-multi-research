@@ -213,3 +213,5 @@ python test_run.py "Stubble burning policy in a single small village of Fatehgar
 - The Report view displays the assembled findings with citation highlighting.
 ---`n`n## Contributor Implementation Notes
 - Judge mode should remain an assessment feature and must not invent source facts.
+---`n`n## Contributor Implementation Notes
+- Each contributor should work on a focused branch and submit changes through a pull request.
