@@ -7,6 +7,7 @@ The current version also supports configurable API keys, research domains, platf
 
 ---
 
+Docs - https://drive.google.com/file/d/1lJr1IHnD9t91X63yOTBKlYLMjCMOUmIR/view?usp=sharing
 ## Windows Setup Steps (PowerShell)
 
 The repository includes the dependency manifests [backend/requirements.txt](backend/requirements.txt),
