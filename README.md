@@ -139,3 +139,5 @@ python test_run.py "Stubble burning policy in a single small village of Fatehgar
 - Store local backend secrets in `backend\.env`.
 ---`n`n## Contributor Implementation Notes
 - Never commit real API keys or provider credentials.
+---`n`n## Contributor Implementation Notes
+- Configure `OPENROUTER_API_KEY` before starting research runs.
