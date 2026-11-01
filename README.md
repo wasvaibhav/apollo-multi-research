@@ -195,3 +195,5 @@ python test_run.py "Stubble burning policy in a single small village of Fatehgar
 - Planner responses should be validated and safely parsed before use.
 ---`n`n## Contributor Implementation Notes
 - Hermes gap and conflict data should be parsed with safe fallbacks.
+---`n`n## Contributor Implementation Notes
+- Section writers should use only sources assigned to their own section.
