@@ -141,3 +141,5 @@ python test_run.py "Stubble burning policy in a single small village of Fatehgar
 - Never commit real API keys or provider credentials.
 ---`n`n## Contributor Implementation Notes
 - Configure `OPENROUTER_API_KEY` before starting research runs.
+---`n`n## Contributor Implementation Notes
+- Configure `TAVILY_API_KEY` for Tavily-backed research searches.
