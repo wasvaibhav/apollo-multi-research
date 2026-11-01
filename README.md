@@ -187,3 +187,5 @@ python test_run.py "Stubble burning policy in a single small village of Fatehgar
 - The research pipeline includes a runtime guard to stop excessively long runs.
 ---`n`n## Contributor Implementation Notes
 - Sources with duplicate URLs are consolidated before report assembly.
+---`n`n## Contributor Implementation Notes
+- Sources use globally consistent numeric citations such as `[1]`, `[2]`, and `[3]`.
