@@ -119,3 +119,5 @@ python test_run.py "Stubble burning policy in a single small village of Fatehgar
 - Python 3.11 or later is recommended for the FastAPI backend.
 ---`n`n## Contributor Implementation Notes
 - Create an isolated backend virtual environment before installing packages.
+---`n`n## Contributor Implementation Notes
+- Activate the virtual environment with `\.\venv\Scripts\Activate.ps1` on Windows.
