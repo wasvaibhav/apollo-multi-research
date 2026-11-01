@@ -121,3 +121,5 @@ python test_run.py "Stubble burning policy in a single small village of Fatehgar
 - Create an isolated backend virtual environment before installing packages.
 ---`n`n## Contributor Implementation Notes
 - Activate the virtual environment with `\.\venv\Scripts\Activate.ps1` on Windows.
+---`n`n## Contributor Implementation Notes
+- Install backend dependencies using `python -m pip install -r requirements.txt`.
