@@ -203,3 +203,5 @@ python test_run.py "Stubble burning policy in a single small village of Fatehgar
 - Use `python test_run.py "topic"` to exercise the research pipeline from the terminal.
 ---`n`n## Contributor Implementation Notes
 - Use a specific, time-bounded topic when validating a research run.
+---`n`n## Contributor Implementation Notes
+- The frontend supports Markdown viewing and PDF export workflows.
