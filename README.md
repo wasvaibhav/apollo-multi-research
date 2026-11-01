@@ -127,3 +127,5 @@ python test_run.py "Stubble burning policy in a single small village of Fatehgar
 - Use `npm ci` when the committed `package-lock.json` should be respected.
 ---`n`n## Contributor Implementation Notes
 - Use an LTS Node.js release with npm for the React frontend.
+---`n`n## Contributor Implementation Notes
+- Start the API with Uvicorn on port 8000.
