@@ -205,3 +205,5 @@ python test_run.py "Stubble burning policy in a single small village of Fatehgar
 - Use a specific, time-bounded topic when validating a research run.
 ---`n`n## Contributor Implementation Notes
 - The frontend supports Markdown viewing and PDF export workflows.
+---`n`n## Contributor Implementation Notes
+- The Plan view shows the generated sections and targeted research questions.
