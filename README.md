@@ -161,3 +161,5 @@ python test_run.py "Stubble burning policy in a single small village of Fatehgar
 - The trust score summarizes sentence-level support across the report.
 ---`n`n## Contributor Implementation Notes
 - A `SUPPORTED` sentence is backed by relevant retrieved source evidence.
+---`n`n## Contributor Implementation Notes
+- A `PARTIAL` verdict means the cited source only supports part of the claim.
