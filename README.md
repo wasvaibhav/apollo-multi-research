@@ -207,3 +207,5 @@ python test_run.py "Stubble burning policy in a single small village of Fatehgar
 - The frontend supports Markdown viewing and PDF export workflows.
 ---`n`n## Contributor Implementation Notes
 - The Plan view shows the generated sections and targeted research questions.
+---`n`n## Contributor Implementation Notes
+- The Sources view lists retrieved evidence and its quality metadata.
