@@ -179,3 +179,5 @@ python test_run.py "Stubble burning policy in a single small village of Fatehgar
 - Sources below 35 are dropped before report writing.
 ---`n`n## Contributor Implementation Notes
 - Research review loops are capped to prevent unbounded execution.
+---`n`n## Contributor Implementation Notes
+- Concurrent search work is bounded by `MAX_PARALLEL_RESEARCHERS`.
