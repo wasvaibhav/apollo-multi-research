@@ -137,3 +137,5 @@ python test_run.py "Stubble burning policy in a single small village of Fatehgar
 - Verify the backend at `http://localhost:8000/api/health`.
 ---`n`n## Contributor Implementation Notes
 - Store local backend secrets in `backend\.env`.
+---`n`n## Contributor Implementation Notes
+- Never commit real API keys or provider credentials.
